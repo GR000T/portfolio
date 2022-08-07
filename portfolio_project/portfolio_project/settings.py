@@ -25,7 +25,7 @@ SECRET_KEY = '_379*ue8o)$s9(ae!#4q^yo1=s(-p643!^dg8cd+4ewfxf^_r('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','sampledomain.com']
+ALLOWED_HOSTS = ['127.0.0.1','sriram-web.herokuapp.com']
 
 
 # Application definition
